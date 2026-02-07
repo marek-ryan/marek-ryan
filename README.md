@@ -6,7 +6,7 @@ I work with healthcare and biomedical data — building ML pipelines for biomark
 
 - 🔬 Currently building a biomarker analysis pipeline for aging research using ARIC, UK Biobank & NHANES datasets
 - 🎓 MSc Cellular & Molecular Medicine — University of Bristol
-- 📄 Published researcher in proteomics and biomarker prediction
+- 📄 Published researcher in antibiotic resistance
 
 ### Tech Stack
 
@@ -22,5 +22,4 @@ I work with healthcare and biomedical data — building ML pipelines for biomark
 
 ### Find me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marekmurarik/)
 [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ff829bffa431ff45)
