@@ -1,4 +1,4 @@
-# Hi, I'm Marek 
+# Hi, I'm Marek 👋
 
 **Data Scientist & Python Developer** based in the UK.
 
