@@ -4,7 +4,7 @@
 
 I work with healthcare and biomedical data — building ML pipelines for biomarker research, survival analysis, and predictive medicine.
 
-- 🔬 Currently building a biomarker analysis pipeline for aging research using ARIC, UK Biobank & NHANES datasets
+- 🔬 Freelance data science consultant and data engineer — currently working on biomarker research and epidemiological data pipelines
 - 🎓 MSc Cellular & Molecular Medicine — University of Bristol
 - 📄 Published researcher in antibiotic resistance
 
@@ -19,11 +19,16 @@ I work with healthcare and biomedical data — building ML pipelines for biomark
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-444876?style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Quarto](https://img.shields.io/badge/-Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ### Find me
 
